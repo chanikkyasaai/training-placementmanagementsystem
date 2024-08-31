@@ -12,6 +12,7 @@ void updateJob();
 void deleteJob();
 void updateCandidate();
 
+
 //structure definitions
 struct job {
     char title[50];
